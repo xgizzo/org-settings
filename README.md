@@ -1,2 +1,2 @@
 # org-settings
-xbot settings repo
+.. xbot settings repo
