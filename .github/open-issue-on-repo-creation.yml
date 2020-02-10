@@ -8,7 +8,7 @@ enableIssueCreation: true
 createdIssueTitle: 'Repository Setup First Steps'
 
 # Issue Body when a repository is created
-createdIssueBody: 'Congratulations! You\'ve just created a new repository. Please complete the following tasks to make sure that your work can be seen and discoverable by other members of the organization:\n- [ ] Give @[YOUR_ORG_NAME]/[YOUR_TEAM_NAME] at least read access\n- [ ] Add some [topics](https://blog.github.com/2017-01-31-introducing-topics/) that describe the content and purpose of your repository'
+createdIssueBody: 'Congratulations! You\'ve just created a new repository. Please complete the following tasks to make sure that your work can be seen and discoverable by other members of the organization:\n- [ ] Give @[xgizzo]/[xteam] at least read access\n- [ ] Add some [topics](https://blog.github.com/2017-01-31-introducing-topics/) that describe the content and purpose of your repository'
 
 # Users/Groups that should be cc'ed on the issue. Should be users/groups separated by a space.
 # ccList: '@user123 @user456'
