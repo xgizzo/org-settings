@@ -12,4 +12,4 @@ jobs:
     - name: Run probot-settings
       uses: elstudio/actions-settings@v2
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.68ca3f85d5ba070066bd150a897080702c57d490 }}
