@@ -49,7 +49,7 @@ labels:
 
 # Collaborators: give specific users access to this repository.
 collaborators:
-  - username: bkeepers
+  - username: xbotninja
     # Note: Only valid on organization-owned repositories.
     # The permission to grant the collaborator. Can be one of:
     # * `pull` - can pull, but not push to or administer this repository.
